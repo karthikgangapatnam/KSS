@@ -6,7 +6,20 @@
 	</types>
 	<types>
 		<members>Contact.AccountOwnerId__c</members>
+		<members>Case.Case_Age__c</members>
 		<name>CustomField</name>
+	</types>
+	<types>
+		<members>Contact.Email_and_phone_required</members>
+		<name>ValidationRule</name>
+	</types>
+  <types>
+		<members>*</members>
+		<name>ApexTrigger</name>
+	</types>
+	<types>
+		<members>sample_flow</members>
+		<name>Flow</name>
 	</types>
 	<version>55.0</version>
 </Package>
