@@ -13,7 +13,7 @@
 		<members>Contact.Email_and_phone_required</members>
 		<name>ValidationRule</name>
 	</types>
-  <types>
+  	<types>
 		<members>*</members>
 		<name>ApexTrigger</name>
 	</types>
