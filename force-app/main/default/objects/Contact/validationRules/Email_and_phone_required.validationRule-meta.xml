@@ -3,5 +3,5 @@
     <fullName>Email_and_phone_required</fullName>
     <active>true</active>
     <errorConditionFormula>ISBLANK( Email) &amp;&amp;  ISBLANK( Phone )</errorConditionFormula>
-    <errorMessage>Please enter email address/Phone.</errorMessage>
+    <errorMessage>Please enter email address or Phone.</errorMessage>
 </ValidationRule>
